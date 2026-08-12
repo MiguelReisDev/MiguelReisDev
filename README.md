@@ -1,4 +1,4 @@
-# Olá! Sou o Miguel Reis, estudante apaixonado por Tecnologia!
+# Olá! Sou o Miguel Reis, estudante do Senai apaixonado por Tecnologia!
 
 ---
 
